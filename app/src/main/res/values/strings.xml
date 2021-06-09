@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+</resources>
